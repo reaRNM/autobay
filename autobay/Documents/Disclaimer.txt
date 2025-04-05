@@ -1,0 +1,11 @@
+## Disclaimer
+
+AutoBay is provided as-is without any warranties, expressed or implied. The user is solely responsible for how they use this software and for ensuring compliance with all applicable laws and regulations, including platform terms of service.
+
+This software is designed to assist with auction research and bidding decisions, but all final decisions should be made by the user. The developers are not responsible for any financial losses, missed opportunities, or other negative outcomes resulting from the use of this software.
+
+The software may access and process data from various auction platforms. Users are responsible for ensuring they have the right to access and use this data according to the terms of service of each platform.
+
+This software is intended for personal or business use in accordance with all applicable laws. It is not intended to be used for any illegal activities, including but not limited to fraud, market manipulation, or violation of platform policies.
+
+By using AutoBay, you acknowledge that you have read and understood this disclaimer and agree to use the software at your own risk.

@@ -1,0 +1,12 @@
+{
+  "ebay": {
+    "insertion_fee": 0.35,
+    "final_value_fee_percentage": 12.55,
+    "payment_processing_fee_percentage": 2.9,
+    "payment_processing_fee_fixed": 0.30
+  },
+  "amazon": {
+    "referral_fee_percentage": 15.0,
+    "closing_fee": 1.80
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "telegram": {
+    "enabled": true,
+    "bot_token": "your_telegram_bot_token",
+    "chat_id": "your_chat_id"
+  },
+  "email": {
+    "enabled": true,
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "username": "your_email@gmail.com",
+    "password": "your_app_password"
+  },
+  "push": {
+    "enabled": true,
+    "service": "firebase"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "daily_full": {
+    "enabled": true,
+    "cron": "0 1 * * *",
+    "description": "Full daily workflow at 1:00 AM"
+  },
+  "data_collection": {
+    "enabled": true,
+    "cron": "0 */4 * * *",
+    "description": "Data collection every 4 hours"
+  },
+  "urgent_notifications": {
+    "enabled": true,
+    "cron": "*/15 * * * *",
+    "description": "Check for urgent notifications every 15 minutes"
+  }
+}
