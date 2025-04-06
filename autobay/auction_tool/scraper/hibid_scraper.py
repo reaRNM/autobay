@@ -464,10 +464,6 @@ class HiBidScraper:
         """
         Extract price from text.
         
-          price_text: str) -> Optional[float]:
-        """
-        Extract price from text.
-        
         Args:
             price_text: Text containing a price
             

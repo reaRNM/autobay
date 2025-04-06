@@ -2,7 +2,7 @@
 Example usage of the Bid Intelligence Core.
 """
 
-import asyncio  file="example.py" type="code"
+import asyncio
 """
 Example usage of the Bid Intelligence Core.
 """

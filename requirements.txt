@@ -1,0 +1,157 @@
+# Core dependencies
+python-dotenv==1.0.0
+pydantic==2.4.2
+requests==2.31.0
+urllib3==2.0.7
+aiohttp==3.8.5
+asyncio==3.4.3
+tqdm==4.66.1
+tenacity==8.2.3
+cachetools==5.3.1
+python-dateutil==2.8.2
+pytz==2023.3
+schedule==1.2.0
+
+# Web frameworks and API
+fastapi==0.103.1
+uvicorn==0.23.2
+flask==2.3.3
+flask-cors==4.0.0
+gunicorn==21.2.0
+httpx==0.24.1
+websockets==11.0.3
+starlette==0.27.0
+itsdangerous==2.1.2
+jinja2==3.1.2
+
+# Authentication and security
+pyjwt==2.8.0
+passlib==1.7.4
+bcrypt==4.0.1
+cryptography==41.0.3
+
+# Database
+sqlalchemy==2.0.21
+alembic==1.12.0
+psycopg2-binary==2.9.7
+pymongo==4.5.0
+motor==3.3.1
+redis==5.0.0
+sqlmodel==0.0.8
+databases==0.8.0
+asyncpg==0.28.0
+
+# Data processing and analysis
+pandas==2.1.1
+numpy==1.25.2
+scipy==1.11.3
+statsmodels==0.14.0
+tabulate==0.9.0
+openpyxl==3.1.2
+xlrd==2.0.1
+pyarrow==13.0.0
+
+# Machine learning and AI
+scikit-learn==1.3.0
+tensorflow==2.13.0
+torch==2.0.1
+transformers==4.33.2
+sentence-transformers==2.2.2
+xgboost==1.7.6
+lightgbm==4.0.0
+catboost==1.2.2
+joblib==1.3.2
+
+# NLP and text processing
+nltk==3.8.1
+spacy==3.6.1
+gensim==4.3.1
+textblob==0.17.1
+langchain==0.0.292
+langchain-openai==0.0.2
+openai==0.28.1
+tiktoken==0.5.1
+
+# Web scraping
+beautifulsoup4==4.12.2
+selenium==4.12.0
+webdriver-manager==4.0.0
+scrapy==2.11.0
+lxml==4.9.3
+html5lib==1.1
+playwright==1.38.0
+
+# Image processing
+pillow==10.0.1
+opencv-python==4.8.0.76
+scikit-image==0.21.0
+
+# Visualization
+matplotlib==3.8.0
+seaborn==0.12.2
+plotly==5.17.0
+dash==2.13.0
+bokeh==3.2.2
+
+# Task scheduling and workflow
+apscheduler==3.10.4
+celery==5.3.4
+flower==2.0.1
+prefect==2.13.5
+dask==2023.9.2
+distributed==2023.9.2
+
+# Messaging and notifications
+pika==1.3.2
+kafka-python==2.0.2
+confluent-kafka==2.2.0
+twilio==8.9.1
+python-telegram-bot==20.5
+firebase-admin==6.2.0
+sendgrid==6.10.0
+
+# Shipping APIs and integrations
+easypost==7.10.0
+shippo==3.0.0
+fedex==2.4.1
+usps-api==0.5
+ups==0.1.4
+
+# E-commerce platform integrations
+ebaysdk==2.2.0
+amazon-paapi5-python-sdk==1.1.0
+etsy-python==0.4.1
+shopify-python-api==12.3.0
+
+# Testing
+pytest==7.4.2
+pytest-asyncio==0.21.1
+pytest-cov==4.1.0
+pytest-mock==3.11.1
+faker==19.6.2
+hypothesis==6.86.2
+coverage==7.3.2
+
+# Development tools
+black==23.9.1
+isort==5.12.0
+flake8==6.1.0
+mypy==1.5.1
+pre-commit==3.4.0
+pylint==3.0.1
+
+# Documentation
+sphinx==7.2.6
+mkdocs==1.5.3
+mkdocs-material==9.4.2
+
+# Monitoring and logging
+prometheus-client==0.17.1
+sentry-sdk==1.31.0
+structlog==23.1.0
+python-json-logger==2.0.7
+loguru==0.7.2
+
+# Deployment and containerization
+docker==6.1.3
+kubernetes==27.2.0

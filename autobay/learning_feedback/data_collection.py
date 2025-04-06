@@ -132,8 +132,6 @@ class AuctionOutcomeCollector:
                     views=data.get('views', 0),
                     watchers=data.get('watchers', 0),
                     questions=data.get('questions', 0),
-                    bids=data.get('bids', 0),  0),
-                    questions=data.get('questions', 0),
                     bids=data.get('bids', 0),
                     status=status,
                     time_to_sale=data.get('time_to_sale'),

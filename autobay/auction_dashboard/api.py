@@ -218,7 +218,7 @@ def get_ranking(user):
         filters['category'] = request.args.get('category')
     
     if 'min_profit' in request.args:
-        try  = request.args.get('category')
+        filters['category'] = request.args.get('category')
     
     if 'min_profit' in request.args:
         try:
